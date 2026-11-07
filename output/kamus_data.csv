@@ -1,0 +1,13 @@
+kolom,tipe,n_missing,n_unik
+customer_id,object,0,5000
+lama_berlangganan_bulan,float64,100,72
+jenis_kontrak,category,0,4
+tagihan_bulanan_idr,float64,143,4822
+total_tagihan_idr,float64,12,4929
+layanan_internet,category,0,4
+jumlah_layanan_aktif,float64,181,8
+dukungan_teknis,category,0,3
+jumlah_komplain,float64,164,16
+hari_sejak_interaksi_terakhir,float64,203,366
+metode_pembayaran,category,0,5
+status_pelanggan,int64,0,2
